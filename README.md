@@ -1,0 +1,2 @@
+# JavaWorkshop
+Core Java Practice
